@@ -1,3 +1,4 @@
+https://github.com/user-attachments/assets/c1154809-b75e-4dfe-9478-28a8e424e644
 # Platformer Game
 
 # Overview
@@ -34,7 +35,3 @@ The game uses sprite sheets and assets located in the assets folder:
 
 # License
 This project is free to use and modify for any purpose.
-
-https://github.com/user-attachments/assets/c1154809-b75e-4dfe-9478-28a8e424e644
-
-
